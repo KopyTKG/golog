@@ -3,7 +3,7 @@ package golog_test
 import (
 	"testing"
 
-	"gitlab.com/kopytkg/golog"
+	"github.com/kopytkg/golog"
 )
 
 func TestLogFile(t *testing.T) {
