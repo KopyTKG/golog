@@ -1,0 +1,3 @@
+module gitlab.com/kopytkg/golog/v2
+
+go 1.24.3
