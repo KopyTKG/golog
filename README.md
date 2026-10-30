@@ -22,7 +22,7 @@ All existing code works without changes!
 ### Basic Usage (Backward Compatible)
 
 ```go
-import "gitlab.com/kopytkg/golog"
+import "github.com/kopytkg/golog"
 
 func main() {
     golog.LOGLEVEL = golog.INFO
@@ -192,7 +192,7 @@ package main
 
 import (
     "context"
-    "gitlab.com/kopytkg/golog"
+    "github.com/kopytkg/golog"
 )
 
 func main() {
@@ -273,4 +273,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Author
 
-kopytkg - gitlab.com/kopytkg/golog
+kopytkg - github.com/kopytkg/golog
